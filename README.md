@@ -9,6 +9,7 @@ You musthave Python3 installed on your machine.
 You can check if you already have it installed with the command : `python --version`.
 
 Otherwise you can get it by downloading it on the official website : https://www.python.org/downloads/
+
 Don't forget to check the 'add to local variables' option!
 
 ### Building/Rebuilding the project
