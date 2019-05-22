@@ -20,7 +20,7 @@ pip install pathToDownloadedFile/camel_ci_python-0.2.tar.gz
 ### Running Tests
 
 ```bash
-python camel_bubblesort.TestBubblesort
+python -m camel_bubblesort.TestBubblesort
 ```
 
 ### Running the application
