@@ -1,0 +1,6 @@
+# Local
+sortedLists.txt
+
+# Cache
+__pycache__/
+*.pyc
